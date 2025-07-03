@@ -5,3 +5,5 @@ _In an era where access to Earth system data—including climate data, Earth Obs
 This repository contains the Hands-on session of the workshop.
 
 To open the notebook in Google Colab, please use this link: https://colab.research.google.com/github/davemlz/pssc25/blob/main/notebooks/hands-on-rs-ag.ipynb
+
+The slides can be found in this repository. You can check them here: https://github.com/davemlz/pssc25/blob/main/PSSC25_RS4AG.pdf
